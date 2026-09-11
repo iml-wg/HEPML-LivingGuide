@@ -66,10 +66,10 @@ adopted in production versus what remains a demonstration.
 ### Detector simulation
 
 - **Learning Particle Physics by Example: Location-Aware Generative Adversarial Networks for Physics Synthesis**, de Oliveira et al. (2017) ([arXiv:1701.05927](https://arxiv.org/abs/1701.05927)) — *LAGAN: the first location-aware generative model for calorimeter images, and the paper that opened the area*
-- **CaloGAN : Simulating 3D high energy particle showers in multilayer electromagnetic calorimeters with generative adversarial networks**, Paganini et al. (2018) ([arXiv:1712.10321](https://arxiv.org/abs/1712.10321)) — *CaloGAN: three-dimensional multi-layer showers, setting the problem template still in use*
+- **CaloGAN: Simulating 3D high energy particle showers in multilayer electromagnetic calorimeters with generative adversarial networks**, Paganini et al. (2018) ([arXiv:1712.10321](https://arxiv.org/abs/1712.10321)) — *CaloGAN: three-dimensional multi-layer showers, setting the problem template still in use*
 - **CaloFlow: Fast and Accurate Generation of Calorimeter Showers with Normalizing Flows**, Krause et al. (2021) ([arXiv:2106.05285](https://arxiv.org/abs/2106.05285)) — *CaloFlow: tractable likelihoods for shower generation, first application of normalizing flows to detector simulation, good quality based on new classifier test*
 - **Score-based Generative Models for Calorimeter Shower Simulation**, Mikuni et al. (2022) ([arXiv:2206.11898](https://arxiv.org/abs/2206.11898)) — *score-based diffusion for showers*
-- **CaloDREAM – Detector response emulation via attentive flow matching**, Favaro et al. (2024) ([arXiv:2405.09629](https://arxiv.org/abs/2405.09629))— *conditional flow matching with transformer elements. *
+- **CaloDREAM – Detector response emulation via attentive flow matching**, Favaro et al. (2024) ([arXiv:2405.09629](https://arxiv.org/abs/2405.09629)) — *conditional flow matching with transformer elements.*
 
 ### Evaluation and validation
 
