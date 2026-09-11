@@ -52,7 +52,7 @@ adopted in production versus what remains a demonstration.
 - **Efficient Monte Carlo Integration Using Boosted Decision Trees and Generative Deep Neural Networks**, Bendavid (2017) ([arXiv:1707.00028](https://arxiv.org/abs/1707.00028)) — *the pre-neural baseline using boosted decision trees, useful for seeing what the learned methods actually improved on*
 - **Neural Network-Based Approach to Phase Space Integration**, Klimek et al. (2018) ([arXiv:1810.11509](https://arxiv.org/abs/1810.11509)) — *the first neural approach to phase-space integration, framing the problem as learning a change of variables*
 - **Exploring phase space with Neural Importance Sampling**, Bothmann et al. (2020) ([arXiv:2001.05478](https://arxiv.org/abs/2001.05478)) — *neural importance sampling for phase space*
-- **Event Generation with Normalizing Flows**, Gao et al. (2020) ([arXiv:2001.10028](https://arxiv.org/abs/2001.10028)) — *neural importance sampling for phase space, independentfrom, but simultaneously to Bothmann et al.*
+- **Event Generation with Normalizing Flows**, Gao et al. (2020) ([arXiv:2001.10028](https://arxiv.org/abs/2001.10028)) — *neural importance sampling for phase space, independent from, but simultaneously to Bothmann et al.*
 - **MadNIS -- Neural Multi-Channel Importance Sampling**, Heimel et al. (2022) ([arXiv:2212.06172](https://arxiv.org/abs/2212.06172)) — *MadNIS: multi-channel importance sampling combining learned maps with the channel decomposition generators already use*
 
 ### Event generation and unweighting
