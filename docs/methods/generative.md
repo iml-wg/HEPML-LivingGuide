@@ -48,14 +48,14 @@ diffusion gave quality and stability but is slow to sample, and conditional flow
 
 - **Flow-based generative models for Markov chain Monte Carlo in lattice field theory**, Albergo et al. (2019) ([arXiv:1904.12072](https://arxiv.org/abs/1904.12072)) — *flows for lattice field theory, where combining a flow with an accept/reject step gives asymptotically exact sampling*
 - **i-flow: High-Dimensional Integration and Sampling with Normalizing Flows**, Gao et al. (2020) ([arXiv:2001.05486](https://arxiv.org/abs/2001.05486)) — *i-flow: flows for high-dimensional numerical integration and sampling, the same machinery used for a different purpose*
-- **Measuring QCD Splittings with Invertible Networks**, Bieringer et al.  (2020) ([arXiv:2012.09873](https://arxiv.org/abs/2012.09873)) — *invertible networks applied to measuring QCD splittings, illustrating the inference side of tractable likelihoods*
+- **Measuring QCD Splittings with Invertible Networks**, Bieringer et al. (2020) ([arXiv:2012.09873](https://arxiv.org/abs/2012.09873)) — *invertible networks applied to measuring QCD splittings, illustrating the inference side of tractable likelihoods*
 - **CaloFlow: Fast and Accurate Generation of Calorimeter Showers with Normalizing Flows**, Krause et al. (2021) ([arXiv:2106.05285](https://arxiv.org/abs/2106.05285)) — *CaloFlow: the first application of normalizing flows to detector simulation and the first to fool a classifier test*
 
 ### Diffusion and score-based models
 
 - **Score-based Generative Models for Calorimeter Shower Simulation**, Mikuni et al. (2022) ([arXiv:2206.11898](https://arxiv.org/abs/2206.11898)) — *score-based generation for calorimeter showers; now the dominant approach in detector simulation*
 - **Jet Diffusion versus JetGPT -- Modern Networks for the LHC**, Butter et al. (2023) ([arXiv:2305.10475](https://arxiv.org/abs/2305.10475)) — *a direct comparison of diffusion against an autoregressive transformer on the same LHC task*
-- **CaloDREAM – Detector response emulation via attentive flow matching**, Favaro et al. (2024) ([arXiv:2405.09629](https://arxiv.org/abs/2405.09629)) — *conditional flow matching with transformer elements. *
+- **CaloDREAM – Detector response emulation via attentive flow matching**, Favaro et al. (2024) ([arXiv:2405.09629](https://arxiv.org/abs/2405.09629)) — *conditional flow matching with transformer elements.*
 
 ### Transformers and autoregressive models
 
