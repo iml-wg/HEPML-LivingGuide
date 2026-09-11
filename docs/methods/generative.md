@@ -36,7 +36,7 @@ diffusion gave quality and stability but is slow to sample, and conditional flow
 ### Adversarial models
 
 - **Learning Particle Physics by Example: Location-Aware Generative Adversarial Networks for Physics Synthesis**, de Oliveira et al. (2017) ([arXiv:1701.05927](https://arxiv.org/abs/1701.05927)) — *the first physics-aware GAN for calorimeter images, and the origin of the area*
-- **CaloGAN : Simulating 3D high energy particle showers in multilayer electromagnetic calorimeters with generative adversarial networks**, Paganini et al. (2018) ([arXiv:1712.10321](https://arxiv.org/abs/1712.10321)) — *CaloGAN, which made three-dimensional shower generation a standard benchmark*
+- **CaloGAN: Simulating 3D high energy particle showers in multilayer electromagnetic calorimeters with generative adversarial networks**, Paganini et al. (2018) ([arXiv:1712.10321](https://arxiv.org/abs/1712.10321)) — *CaloGAN, which made three-dimensional shower generation a standard benchmark*
 - **How to GAN Event Unweighting**, Backes et al. (2020) ([arXiv:2012.07873](https://arxiv.org/abs/2012.07873)) — *GAN-based event unweighting — a case where the model accelerates an exact procedure rather than replacing it*
 
 ### Variational autoencoders
