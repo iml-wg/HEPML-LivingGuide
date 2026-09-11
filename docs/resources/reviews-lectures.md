@@ -56,7 +56,7 @@ Grouped by the section of the Guide they serve.
 - **Deep Generative Models for Detector Signature Simulation: An Analytical Taxonomy**, Hashemi et al. ([arXiv:2312.09597](https://arxiv.org/abs/2312.09597)) — an analytical taxonomy of generative models for detector signatures.
 - **A Comprehensive Evaluation of Generative Models in Calorimeter Shower Simulation**, Ahmad et al. ([arXiv:2406.12898](https://arxiv.org/abs/2406.12898)) — a comprehensive evaluation of generative models for shower simulation.
 - **CaloChallenge 2022: A Community Challenge for Fast Calorimeter Simulation**, Krause et al. ([arXiv:2410.21611](https://arxiv.org/abs/2410.21611)) — the CaloChallenge: a controlled comparison with agreed metrics.
-- **A First Full Physics Benchmark for Highly Granular Calorimeter Surrogates**,  ([arXiv:2511.17293](https://arxiv.org/abs/2511.17293)) — a full physics benchmark for highly granular calorimeter surrogates.
+- **A First Full Physics Benchmark for Highly Granular Calorimeter Surrogates**, Buss et al. ([arXiv:2511.17293](https://arxiv.org/abs/2511.17293)) — a full physics benchmark for highly granular calorimeter surrogates.
 
 ### [Unfolding & simulation-based inference](../applications/unfolding-inference.md)
 

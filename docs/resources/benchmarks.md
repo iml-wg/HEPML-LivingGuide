@@ -9,7 +9,7 @@ tied to a single topic are listed in that section instead.
 - **JetClass**, Qu, Li, Qian ([arXiv:2202.03772](https://arxiv.org/abs/2202.03772)) —
   a large-scale jet tagging dataset released with Particle Transformer; now the
   default benchmark for architecture comparisons.
-- **Aspen Open Jets**, ([arXiv:2412.10504](https://arxiv.org/abs/2412.10504)) —
+- **Aspen Open Jets**, Amram et al. ([arXiv:2412.10504](https://arxiv.org/abs/2412.10504)) —
   jets built from CMS Open Data, assembled for pre-training foundation models.
 - **RODEM Jet Datasets**, Zoch et al.
   ([arXiv:2408.11616](https://arxiv.org/abs/2408.11616)) — jet datasets aimed at
