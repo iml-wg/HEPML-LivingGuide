@@ -101,7 +101,7 @@ Grouped by the section of the Guide they serve.
 
 - **Dealing with Nuisance Parameters using Machine Learning in High Energy Physics: a Review**, Dorigo et al. ([arXiv:2007.09121](https://arxiv.org/abs/2007.09121)) — handling nuisance parameters with machine learning.
 - **Solving Simulation Systematics in and with AI/ML**, Viren et al. ([arXiv:2203.06112](https://arxiv.org/abs/2203.06112)) — on solving simulation systematics in and with ML.
-- **Uncertainty in Physics and AI: Taxonomy, Quantification, and Validation**, Haussmann et al. (2026) ([arXiv:2605.10378](https://arxiv.org/abs/2605.10378)) — on the various sources of uncertainty and their validation
+- **Uncertainty in Physics and AI: Taxonomy, Quantification, and Validation**, Haussmann et al. ([arXiv:2605.10378](https://arxiv.org/abs/2605.10378)) — on the various sources of uncertainty and their validation.
 
 ### [Lattice field theory](../applications/lattice.md)
 
