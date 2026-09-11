@@ -96,7 +96,7 @@ argument playing out in [equivariant architectures](equivariant-geometric.md) an
 
 *Relevant work that is not an entry point — too specialized, too recent, or simply not where a newcomer should start. Suggestions that do not fit the curated list above belong here rather than being turned away.*
 
-- **Systematic Evaluation of Generative Machine Learning Capability to Simulate Distributions of Observables at the Large Hadron Collider**, Gavranovivc et al. (2023) ([arXiv:2310.08994](https://arxiv.org/abs/2310.08994)) — *a systematic evaluation of generative capability, longer and more specialized than the entries above*
+- **Systematic Evaluation of Generative Machine Learning Capability to Simulate Distributions of Observables at the Large Hadron Collider**, Gavranovič et al. (2023) ([arXiv:2310.08994](https://arxiv.org/abs/2310.08994)) — *a systematic evaluation of generative capability, longer and more specialized than the entries above*
 
 ## Cross-references
 
