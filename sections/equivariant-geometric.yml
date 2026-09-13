@@ -14,7 +14,7 @@ axis: method
 page: docs/methods/equivariant-geometric.md
 
 # stub | draft | published
-status: stub
+status: draft
 
 # Named authors of the current version. An empty list renders as "unclaimed".
 #
@@ -26,10 +26,10 @@ status: stub
 #
 # Both are optional and independent: give one, both, or neither. Affiliations are
 # deliberately not shown, because they date faster than the sections do.
-authors: []
-#  - name: Jane Doe
-#    orcid: 0000-0000-0000-0000
-#    inspire: 1234567
+authors:
+  - name: Jonas Spinner
+    orcid: 0000-0003-4046-948X
+    inspire: 2161608
 
 # GitHub handles of people willing to be contacted when the section falls due
 # for review. Stewardship is transferable and can be handed back at any time.
