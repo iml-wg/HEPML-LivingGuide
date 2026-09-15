@@ -14,7 +14,7 @@ axis: method
 page: docs/methods/equivariant-geometric.md
 
 # stub | draft | published
-status: draft
+status: published
 
 # Named authors of the current version. An empty list renders as "unclaimed".
 #
@@ -36,7 +36,7 @@ authors:
 stewards: []
 
 # ISO date of the last substantive review. `null` means never written.
-last_reviewed: null
+last_reviewed: 2026-09-16
 
 # Months before the staleness notice appears. Overrides the site default of 12.
 review_interval_months: null
