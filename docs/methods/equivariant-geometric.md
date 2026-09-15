@@ -8,6 +8,7 @@ Physics is governed by well-known symmetries, so networks operating on physics d
 
 - **Symmetry Group Equivariant Architectures for Physics**, Bogatskiy et al. (2022) ([arXiv:2203.06153](https://arxiv.org/abs/2203.06153)) — *community report on benefits of equivariant architectures in high-energy physics*
 - **Graph Neural Networks in Particle Physics**, Shlomi et al. (2020) ([arXiv:2007.13681](https://arxiv.org/abs/2007.13681)) — *introduction to graph networks and their application in high-energy physics*
+- **Artificial Intelligence and Symmetries: Learning, Encoding, and Discovering Structure in Physical Data**, Sanz (2026) ([arXiv:2602.02351](https://arxiv.org/abs/2007.13681)) — *review of methods for extracting symmetry information from data*
 - **Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges**, Bronstein et al. (2021) ([arXiv:2104.13478](https://arxiv.org/abs/2104.13478)) — *popular computer science review on equivariant networks, unifies CNNs, GNNs and SO(3)-equivariant networks*
 
 ## Curated paper list
@@ -41,15 +42,17 @@ Physics is governed by well-known symmetries, so networks operating on physics d
 
 ## Open questions
 
-- Is the performance gain of equivariant networks worth their extra compute? The answer to this question likely depends on the task, the compute constraints, and the quality of the implementation.
+- Is the performance gain of equivariant networks worth their extra compute? The answer to this question depends on the task, the compute constraints, and the quality of the implementation.
 - Can soft priors, such as data augmentation or penalty loss terms, compete with equivariant networks? This is particularly relevant for tasks with approximately realized symmetries, where equivariant networks also rely on symmetry breaking mechanisms.
-- Are symmetry-informed networks useful beyond the performance increase? For instance, are they more interpretable or more robust against domain shift?
+- Are symmetry-informed networks useful beyond the performance increase? For instance, are they more interpretable or more robust under domain shift?
 - Can networks benefit from other symmetries beyond the ones listed above? And what about more complicated representations of the established symmetry groups, such as rank-3 representations of the permutation group, rank-2 representations of the Lorentz group, or parity-odd representations?
 
 ## Further reading
 
 *Relevant work that is not an entry point — too specialized, too recent, or simply not where a newcomer should start. Suggestions that do not fit the curated list above belong here rather than being turned away.*
 
+- **Equivariant, Safe and Sensitive — Graph Networks for New Physics**, Bhardwaj et al. (2024) ([arXiv:2402.12449](https://arxiv.org/abs/2402.12449)) — *Euclidean equivariance in rapidity-azimuth plane as alternative to Lorentz equivariance, plus IRC safety from energy weighting for robustness under domain shift*
+- **SEAL - A Symmetry EncourAging Loss for High Energy Physics**, Hebbar et al. (2025) ([arXiv:2511.01982](https://arxiv.org/abs/2511.01982)) — *Approximate Lorentz equivariance from a penalty loss term that penalizes equivariance violation, as alternative to equivariant architectures*
 - **Encoding Physics at the Precision Frontier**, Bresó-Pla et al. (2026) ([arXiv:2603.08802](https://arxiv.org/abs/2603.08802)) — *Compares Lorentz-equivariance ('explicit') with foundation models ('implicit') priors on challenging tasks in jet physics*
 - **Virtues and Vices of Equivariant Transformers**, Favaro et al. (2026) ([arXiv:2608.02735](https://arxiv.org/abs/2608.02735)) — *Scaling study of Lorentz-equivariant vs. standard transformers for jet tagging under inference-cost constraints*
 
