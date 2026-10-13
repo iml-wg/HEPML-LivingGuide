@@ -26,10 +26,10 @@ status: draft
 #
 # Both are optional and independent: give one, both, or neither. Affiliations are
 # deliberately not shown, because they date faster than the sections do.
-authors: []
-#  - name: Sofia Palacios Schweitzer
-#    orcid: 0009-0004-0296-7204
-#    inspire: 2660880
+authors:
+  - name: Sofia Palacios Schweitzer
+    orcid: 0009-0004-0296-7204
+    inspire: 2660880
 
 # GitHub handles of people willing to be contacted when the section falls due
 # for review. Stewardship is transferable and can be handed back at any time.
