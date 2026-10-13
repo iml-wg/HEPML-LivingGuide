@@ -14,7 +14,7 @@ axis: application
 page: docs/applications/unfolding-inference.md
 
 # stub | draft | published
-status: stub
+status: draft
 
 # Named authors of the current version. An empty list renders as "unclaimed".
 #
@@ -27,16 +27,16 @@ status: stub
 # Both are optional and independent: give one, both, or neither. Affiliations are
 # deliberately not shown, because they date faster than the sections do.
 authors: []
-#  - name: Jane Doe
-#    orcid: 0000-0000-0000-0000
-#    inspire: 1234567
+#  - name: Sofia Palacios Schweitzer
+#    orcid: 0009-0004-0296-7204
+#    inspire: 2660880
 
 # GitHub handles of people willing to be contacted when the section falls due
 # for review. Stewardship is transferable and can be handed back at any time.
 stewards: []
 
 # ISO date of the last substantive review. `null` means never written.
-last_reviewed: null
+last_reviewed: 2026-10-06
 
 # Months before the staleness notice appears. Overrides the site default of 12.
 review_interval_months: null
