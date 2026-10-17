@@ -34,6 +34,8 @@ background in ways that must be controlled before any significance can be quoted
 
 - **Anomaly Detection for Resonant New Physics with Machine Learning**, Collins et al. (2018) ([arXiv:1805.02664](https://arxiv.org/abs/1805.02664)) — *CWoLa hunting: introduced the weakly supervised, sideband-based framing most later work builds on*
 - **Searching for New Physics with Deep Autoencoders**, Farina et al. (2018) ([arXiv:1808.08992](https://arxiv.org/abs/1808.08992)) — *autoencoder reconstruction error as an anomaly score — the canonical unsupervised baseline*
+- **QCD or What?**, Heimel et al. (2018) ([arXiv:1808.08979](https://arxiv.org/abs/1808.08979)) — *autoencoder jet taggers trained on QCD flag top jets well, but the reverse direction works much less well: the first sign that reconstruction error is not symmetric between signal and background*
+- **Autoencoders for unsupervised anomaly detection in high energy physics**, Finke et al. (2021) ([arXiv:2104.09051](https://arxiv.org/abs/2104.09051)) — *explains that asymmetry: autoencoder scores largely track how complex an input is, so simpler signals can look more normal than the background. Worth reading before trusting any unsupervised score*
 - **Anomaly Detection with Density Estimation**, Nachman et al. (2020) ([arXiv:2001.04990](https://arxiv.org/abs/2001.04990)) — *ANODE: densities estimated in signal region and sidebands separately, making the background estimate intrinsic to the method*
 - **Classifying Anomalies THrough Outer Density Estimation (CATHODE)**, Hallin et al. (2021) ([arXiv:2109.00546](https://arxiv.org/abs/2109.00546)) — *CATHODE: sampling from the sideband-interpolated density to train a classifier, now a standard baseline*
 
@@ -52,7 +54,7 @@ useful paragraph on the page.*
 
 *Relevant work that is not an entry point — too specialized, too recent, or simply not where a newcomer should start. Suggestions that do not fit the curated list above belong here rather than being turned away.*
 
-*Nothing listed yet.*
+- **When Graph Autoencoders Look the Wrong Way: Complexity Bias and Simple Baselines in Unsupervised Anomaly Detection on the LHC Olympics 2020 Dataset**, Khan (2026) ([doi:10.5281/zenodo.23432779](https://doi.org/10.5281/zenodo.23432779)) — *a case study of the complexity bias on the LHCO R&D data: event-level graph-autoencoder scores come out inverted (AUC 0.40–0.44), while the label-free mean transverse momentum per particle reaches 0.81; argues for simple physics baselines and AUCs within multiplicity bins as standard checks*
 
 ## Cross-references
 
